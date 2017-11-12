@@ -1,6 +1,9 @@
 # Jared Tobin
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171111/000013.html>.
+* Principal @ Pushforward Limited
+* https://jtobin.io
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171111/000013.html>
+* See `./report.asc` for the signed attestation.
 
 Response file:
 
