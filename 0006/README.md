@@ -1,4 +1,7 @@
-# Hudson Jameson
+# Hudson Jameson and Steven Schroeder
+
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171116/000041.html>
+* See `./report.asc` for the signed attestation.
 
 Response file:
 
