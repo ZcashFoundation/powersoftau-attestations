@@ -9,3 +9,19 @@
 7. [Eric L. Stromberg](./0007/) [[report.asc]](./0007/report.asc) 1ad851c65b4fcf3ca0bce6b366c40c48b65f611044731faf2b5fc90f987eda3f3240ea25c555e516ff73de2855369fd2da77a7055529b6f72ac3225b07fd8585
 8. [Cody Burns](./0008/) [[report.asc]](./0008/report.asc) 3002034f75e83f530d9a949071e6fb28a9f1e39c563bced27d91bf5cc45f0c16e866ffb30c912cf7648bde08f0709f1846d758ecfcec62dcdc2eb16c685e60d1
 9. [Robert Hackett](./0009/) 2af8b7aadedc27d194a28cb67729f8cab0095a48a8406c071f097639d852c4917ecf213194df2115dd0a294b9c114711237f041c37987023dd8c9f4bc42991d9
+
+## License
+
+Licensed under either of
+
+ * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+at your option.
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally
+submitted for inclusion in the work by you, as defined in the Apache-2.0
+license, shall be dual licensed as above, without any additional terms or
+conditions.
