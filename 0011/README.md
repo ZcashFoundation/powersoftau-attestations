@@ -1,4 +1,9 @@
-# Adrian Brink
+# [Adrian Brink](https://adrianbrink.com/)
+
+* Core Developer @ [Cosmos Network](https://cosmos.network/)
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171118/000063.html>
+* https://keybase.io/adrianbrink
+* See `./report.asc` for the signed attestation.
 
 Response file:
 
