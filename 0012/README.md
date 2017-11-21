@@ -1,6 +1,9 @@
 # Miguel Angel Marco Buzunariz
 
+* Assistant professor, Universidad de Zaragoza
+* https://riemann.unizar.es/~mmarco/
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171120/000073.html>
+* See `./report.asc` for the signed attestation.
 
 Response file:
 
