@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Plan for running the powersoftau multiparty computation.
+
+## Setup:
+
+ - An air-gapped machine. It consists on a laptop with the following modifications:
+    - The hard drive has been phisically removed.
+    - The wireless card has been phisically removed.
+    - No network cable will be connected to it during or after the computation.
+ - Another machine, connected to the internet, running a gentoo linux system.
+    - compile the powersoftau binary on the gentoo machine.
+      - compiled from commit `d47a1d3d1f007063cbcc35f1ab902601a8b3bd91`
+      - the obtained `compute` binary has a sha256 hash `2603d31c9394ac624a0a3bceb5c9d227f73447dac29c4e2a598dd69590c92cd3`
+      - burn a  a Linux Mint 18.2 "Sonya" KDE .iso image on several usb(1) thumb drives
+
+## Steps to follow:
+    
+  - When my turn to go comes:
+    - Get the challenge file from the network in the gentoo box
+    - Copy it to a several usb drives(2), together with the `compute` binary
+    - Randomly choose one of the usb drives(1) to boot the airgapped. The rest will be kept untouched to allow future audits(*).
+    - Randomly choose one of the usb drives(2), plug it and mount in the airgapped machine. The rest will be kept untouched to allow future audits (*).
+    - run there the `compute` binary
+      - as a source of entropy, I will just press many keys at random, and then add the result of rolling a dice 50 times.
+    - burn the resulting `response` file in deveral different dvd's.
+    - choose one of those dvd's at random, keep the others for possible future audits(*).
+    - read the chosen dvd in the gentoo machine, and send the response file back.
+
+
+    
+(*) The rationale behind this is to prevent attacks based on tampering with the drives. If there is something malicious in the drives whose traces would be erased after pluging it in a second machine, the other copies would allow to detect it. I don't have the resources to perform the kind of audit necessary to detect this, but will keep the evidence in case someone volunteers to do the audit.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEZqJ2ok+i5RbOpE2l3QEU7bdBBZIFAloPX5EACgkQ3QEU7bdB
+BZIntw/+I04gmgWGhgAIATI8nG0WR0rRlwaWEnCdgry3PUQ2e4BBro+oDvG9qe7h
+Xw4CGvoOQboQvUaKcUEOUls1Li+P3LCKP1P40z8q8KU9sGI44yqiNnq6JUfHvsXZ
+qWDlwUGyf+sW+qcfGoJLv2j1tlPQoJRoJwWTSnJYq1/yb2+qltvYCzmS85lhztkK
+Qea5ZWawl74i6xzE6lOlKN3Sceog34j7k5rL+GES4I80unJYEGqHifed7nz1bK8f
+wb6ksBDJ9hdJaw6ZIGdgZa7qzvojmtE7yE3y49rig6WjETEr16Wp/WuzRg0dKMfl
+LFlzNbXKHIcNwiQLLWXPwTwPrx9orz+8ckf4U8HJDy/3FsDmEEf9Lcrm5LO0+P3t
+oknxsLQF8yNJXTKILCugQGoVghbo0OgLlcw4IaQSmMilRabvOLd0/TYvsS3SfAu6
+6s/jGLcjr+VtQE/oIaAI7bRHkB8BC77OSeOGiGBRq0T+HCvtaZGwG/l0u17sY1Rs
+OILLUXdN/sg17ApnfnqLbo2hioLVrdTyK/amgDhlCrNHvniKxBkFhyvlfJRmRCpb
+W9MWj618fBflH2u+aF/56HmpeP4Yt/ngkqJvCkV+Sq+9EdZTlRbopltZQ3YSKdQI
+GaaqJHsVbFS2U13vth7klh1a6DhJXD2M9/iONsIhulma+NSX0g4=
+=6Vgh
+-----END PGP SIGNATURE-----
