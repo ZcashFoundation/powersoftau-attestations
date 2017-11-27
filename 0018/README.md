@@ -1,6 +1,4 @@
-# Unknown
-
-* Should be `NealJayu` but have not confirmed yet.
+# Neal Jayu
 
 Response file:
 
