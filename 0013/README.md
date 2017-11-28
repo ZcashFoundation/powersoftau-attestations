@@ -1,6 +1,6 @@
 # Tommaso Pellizzari
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171121/000082.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000082.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

@@ -2,7 +2,7 @@
 
 * Assistant professor, Universidad de Zaragoza
 * https://riemann.unizar.es/~mmarco/
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171120/000073.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000073.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

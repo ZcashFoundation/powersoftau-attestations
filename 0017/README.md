@@ -1,7 +1,7 @@
 # Wei Tang
 
 * https://that.world/~wei
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171124/000092.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000092.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

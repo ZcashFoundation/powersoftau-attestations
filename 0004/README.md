@@ -2,7 +2,7 @@
 
 * Software Engineer
 * https://matt.drollette.com/
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171112/000018.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000018.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

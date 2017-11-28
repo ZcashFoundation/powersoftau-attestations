@@ -1,6 +1,6 @@
 # Gabor Losonci
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/20171123/000090.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000090.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:
