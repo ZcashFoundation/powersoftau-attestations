@@ -1,6 +1,7 @@
 # minezcash
 
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-December/000119.html>
+* See `./report.asc` for a signed attestation.
 
 Response file:
 
