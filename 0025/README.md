@@ -1,6 +1,7 @@
 # Fabrice Marchal
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000127.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000131.html>
+* See `./report.asc` for a signed attestation.
 
 Response file:
 
