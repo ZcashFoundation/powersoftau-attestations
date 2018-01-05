@@ -1,6 +1,6 @@
 # Rudi Cilibrasi
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017-November/000103.html>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000103.html>
 * See `./report.asc` for a signed attestation.
 
 Response file:
