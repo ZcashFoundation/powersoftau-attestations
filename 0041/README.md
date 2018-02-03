@@ -1,7 +1,6 @@
 # Ryan Pierce and Andrew Miller
 
-Report:
-* https://github.com/ZcashFoundation/powersoftau-attestations/blob/master/0041/attestation.txt.asc
+* See signed attestation at `./report.asc`
 
 Response file:
 
