@@ -1,5 +1,7 @@
 # Joseph Tobin
 
+* <https://jobin212.github.io/>
+* <https://keybase.io/puffinrng>
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000252.html>
 
 Response file:
