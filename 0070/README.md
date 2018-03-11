@@ -1,6 +1,6 @@
 # Zcash FR
 
-* Mailing list post: <>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000319.html>
 
 Response file:
 
