@@ -1,6 +1,6 @@
-# sleeping shell
+# Tyler Diamond
 
-* Mailing list post: <>
+* Attestation is not signed
 
 Response file:
 
