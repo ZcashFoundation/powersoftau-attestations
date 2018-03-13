@@ -79,6 +79,9 @@
 75. [Kevin Gallagher](./0075/) 548c67a73e0e33cd8c8d00f23963870ba5bfb8637ebeacc6541ed607b5edc8e7db1593d22804688f3cc4c788a750f7f8ec57aa7f122f3fa6d86ff5bc11a26940
 76. [Monica Quaintance](./0076/) [[report.asc]](./0076/report.asc) 6f2bfecd1a3792461a0a4dec936fccc855f97200d87979125eb561dd1b98d4f02e3ed57627933295a51d71e181863945cb70d2cf83f3a3b9646155fa0e28d3ac
 77. [Lucas E Morales](./0077/) [[report.asc]](./0077/report.asc) ab0c2fbd794ab26d249617cdbfd145f0a6be9c5dc9da46d8ead2b427e694d12c8f0fd6013fdc3806c538bc7f60d7240b603d92aa117f6461479fc04358c60cb3
+78. [Devrandom](./0078/) [[report.asc]](./0078/report.asc) a449bc6ed77cbc7b2d6aa91bac4ddc6ee398a6e86c2b08dd529b796bf7fcfb7cba5cfb94a394731de1a188ecbdf6dcaf8444f688975973ca079b94f2e0e7def0
+79. [Josh Cincinnati](./0079/) [[report.asc]](./0079/report.asc) 822885fe28daad522ff771fc849eaa1cc0cd50048249640ebf17560ce50cbc4a13b7669d6091b671bec0c57e3997b60062198990e74ef5c0d739d3b3ba58d3ab
+80. [Ryan Taylor](./0080/) [[report.asc]](./0080/report.asc) 1d4530ec2bc7c6c4fa5d6491acbfe0b3e1ec12085bc0b4b0a1ebef5cf0d71a1d10c2e7db7aa35013a5b19d0bb80713bc967dde558cb917fff10a884bb816d90a
 
 ## License
 
