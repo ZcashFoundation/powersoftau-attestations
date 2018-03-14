@@ -82,6 +82,8 @@
 78. [Devrandom](./0078/) [[report.asc]](./0078/report.asc) a449bc6ed77cbc7b2d6aa91bac4ddc6ee398a6e86c2b08dd529b796bf7fcfb7cba5cfb94a394731de1a188ecbdf6dcaf8444f688975973ca079b94f2e0e7def0
 79. [Josh Cincinnati](./0079/) [[report.asc]](./0079/report.asc) 822885fe28daad522ff771fc849eaa1cc0cd50048249640ebf17560ce50cbc4a13b7669d6091b671bec0c57e3997b60062198990e74ef5c0d739d3b3ba58d3ab
 80. [Ryan Taylor](./0080/) [[report.asc]](./0080/report.asc) 1d4530ec2bc7c6c4fa5d6491acbfe0b3e1ec12085bc0b4b0a1ebef5cf0d71a1d10c2e7db7aa35013a5b19d0bb80713bc967dde558cb917fff10a884bb816d90a
+81. [Tiago Simoes](./0081/) e212b81522cd231ec0f9cc52667293a240c62b69b27f5625bc3819a794ba08812cebf9ba90471932087e3790913e2f5853fde39a87e156e75259a00c1e1ee341
+82. [Gabor Losonci](./0082/) [[report.asc]](./0082/report.asc) 8e929018636c1af3ac9ca50d1243efef984a04fa00eff8b6c3decfd0641b6c9a33d8d519d2e0d69a83104eb02294b7306231bbcb896beca71e41c7805fed0be5
 
 ## License
 
