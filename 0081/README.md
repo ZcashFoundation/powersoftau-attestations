@@ -1,4 +1,4 @@
-# Tiago Simoes
+# Tiago Simoes
 
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000333.html>
 

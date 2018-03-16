@@ -1,4 +1,4 @@
-# Sunny Aggarwal
+# Sunny Aggarwal
 
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000335.html>
 * Twitter: <https://twitter.com/sunnya97/status/974323886962683905>

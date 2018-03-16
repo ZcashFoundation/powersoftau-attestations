@@ -1,4 +1,4 @@
-# Ryan Taylor
+# Ryan Taylor
 
 * Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000330.html>
 * Twitter: <https://twitter.com/AdjyLeak/status/973629370593169408>

@@ -1,4 +1,4 @@
-# Amber Baldet and Patrick Nielsen
+# Amber Baldet and Patrick Nielsen
 
 * Mailing list post: <>
 
