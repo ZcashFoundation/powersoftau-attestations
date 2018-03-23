@@ -1,12 +1,24 @@
 # Random Beacon
 
+* Mailing list post: https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000337.html
+* [Signed announcement of the beacon](./beacon.txt.asc)
+* [Timestamp](./beacon.txt.asc.ots) of the beacon using [OpenTimestamps](https://opentimestamps.org/)
+
+Response file:
+
+* https://powersoftau-transcript.s3-us-west-2.amazonaws.com/88dc1dc6914e44568e8511eace177e6ecd9da9a9bd8f67e4c0c9f215b517db4d1d54a755d051978dbb85ef947918193c93cd4cf4c99c0dc5a767d4eeb10047a4
+
+Explanation:
+
 The random beacon is the 2^42 iteration of SHA256 over the hash of block 514200, with hash:
 
 ```
 00000000000000000034b33e842ac1c50456abe5fa92b60f6b3dfc5d247f7b58
 ```
 
-It's being computed currently. Here is a list of every 2^32 iterations currently computed.
+The process and code for calculating the beacon value was announced on the mailing list before the block appeared.
+
+Here is a list of every 2^32 iterations computed by the beacon (still being confirmed):
 
 ```
 0: 00000000000000000034b33e842ac1c50456abe5fa92b60f6b3dfc5d247f7b58
