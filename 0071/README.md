@@ -1,6 +1,6 @@
 # Erwan Ounn
 
-* Mailing list post: <>
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000299.html>
 
 Response file:
 
