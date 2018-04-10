@@ -1,5 +1,6 @@
 # John DOBBERTIN
 
+* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000348.html>
 * Participated in the first Zcash MPC ceremony: <https://archive.org/details/zc_ceremony_hash_record_LJUBLJANA>
 
 Response file:
