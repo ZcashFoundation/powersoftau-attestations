@@ -1,6 +1,6 @@
 # Philip Stehlik
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000273.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000273.html>
 
 Response file:
 

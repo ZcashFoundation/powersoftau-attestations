@@ -1,6 +1,6 @@
 # Troy Stackhouse
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000280.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000280.html>
 
 Response file:
 

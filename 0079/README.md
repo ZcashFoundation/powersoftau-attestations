@@ -1,6 +1,6 @@
 # Josh Cincinnati
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000326.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000326.html>
 * Twitter: <https://twitter.com/acityinohio/status/973386393069105152>
 
 Response file:

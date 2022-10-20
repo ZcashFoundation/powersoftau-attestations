@@ -1,6 +1,6 @@
 # Mark Giannullo
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000246.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000246.html>
 * https://twitter.com/markgiannullo/status/961683650210402304
 
 Response file:

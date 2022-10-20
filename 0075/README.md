@@ -3,7 +3,7 @@
 * Former DevOps engineer for [Zcash Company](https://z.zcash)
 * Former sysadmin for [Freedom of the Press Foundation](https://freedom.press) and SRE at Cloudflare
 * Personal website: [cointel.pro](https://cointel.pro)
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000352.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000352.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

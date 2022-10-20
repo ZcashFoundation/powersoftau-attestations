@@ -3,7 +3,7 @@
 * Software engineer
 * Founder of [PlutoMonkey](https://www.plutomonkey.com)
 * <https://www.jasondavies.com>
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000009.html>.
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2017/000009.html>.
 * See `./report.asc` for the signed attestation.
 
 Response file:

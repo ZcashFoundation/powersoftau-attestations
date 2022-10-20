@@ -1,6 +1,6 @@
 # Chase Roberts
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000320.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000320.html>
 * Twitter: <https://twitter.com/TheNerdStation/status/970355374619529222>
 
 Response file:

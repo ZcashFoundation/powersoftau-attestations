@@ -1,6 +1,6 @@
 # Justin Scholz
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000238.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000238.html>
 * https://twitter.com/JMoVS/status/959604676525264901
 
 Response file:

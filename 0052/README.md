@@ -1,6 +1,6 @@
 # Gustavo Frederico
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000243.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000243.html>
 
 Response file:
 

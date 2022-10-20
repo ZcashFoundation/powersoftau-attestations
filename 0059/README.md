@@ -1,6 +1,6 @@
 # Salvatore Testa
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000269.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000269.html>
 * Twitter: <https://twitter.com/SalTesta14/status/964925875111182336>
 * Blog post: <https://saltesta.com/crypto/powers-of-tau/>
 

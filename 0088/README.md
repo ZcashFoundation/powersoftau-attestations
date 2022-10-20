@@ -1,6 +1,6 @@
 # Random Beacon
 
-* Mailing list post: https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000337.html
+* Mailing list post: https://lists.zfnd.org/pipermail/zapps-wg/2018/000337.html
 * [Signed announcement of the beacon](./beacon.txt.asc)
 * [Timestamp](./beacon.txt.asc.ots) of the beacon using [OpenTimestamps](https://opentimestamps.org/)
 

@@ -1,6 +1,6 @@
 # Michael Dixon
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000067.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2017/000067.html>
 * See `./report.asc` for the signed attestation.
 
 Response file:

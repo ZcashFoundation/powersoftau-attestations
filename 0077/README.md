@@ -1,6 +1,6 @@
 # Lucas E Morales
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000322.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000322.html>
 * Mastodon: <https://mastodon.mit.edu/@lucasem/99669377294120258>
 * PGP public key: <https://lucasem.com/pgp>
 

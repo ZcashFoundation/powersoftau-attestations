@@ -1,6 +1,6 @@
 # Tony Arcieri
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000149.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000149.html>
 * https://twitter.com/bascule/status/948285074872532992
 
 Response file:

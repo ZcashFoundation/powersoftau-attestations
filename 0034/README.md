@@ -1,6 +1,6 @@
 # Deyan Ginev
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000187.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000187.html>
 
 Response file:
 
