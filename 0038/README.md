@@ -1,6 +1,6 @@
 # Ryan Close
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000201.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000201.html>
 * https://twitter.com/closerm/status/953816452997500929
 
 Response file:

@@ -1,7 +1,7 @@
 # Robert Hackett
 
 * Reporter at Fortune
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000063.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2017/000063.html>
 * https://keybase.io/rhhackett
 * See `./report.asc` for the signed attestation.
 

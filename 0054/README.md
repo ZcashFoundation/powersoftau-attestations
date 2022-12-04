@@ -1,7 +1,7 @@
 # Jan Jancar
 
 * This participant provided two response files in sequence.
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000249.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000249.html>
 * See `./report.asc` for the signed attestation.
 
 Response files:

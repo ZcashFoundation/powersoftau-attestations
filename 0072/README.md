@@ -1,6 +1,6 @@
 # Libby Kent
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000313.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000313.html>
 * Twitter: <https://twitter.com/viskobatz/status/972008427458240512>
 * Input collection script: <https://github.com/libby/mixingpot>
 

@@ -2,7 +2,7 @@
 
 * Twitter: <https://twitter.com/alokmenghrajani/status/963212918505447424>
 * Co-worker's twitter: <https://twitter.com/wmcc_/status/963218431045545985>
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000256.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000256.html>
 
 Response file:
 

@@ -1,7 +1,7 @@
 # David Campbell
 
 * https://about.me/davidcampbell
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000199.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000199.html>
 
 Response file:
 

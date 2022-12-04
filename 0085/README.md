@@ -1,6 +1,6 @@
 # Amber Baldet and Patrick Nielsen
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000336.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000336.html>
 * Blog post: <https://patrickmn.com/security/hidden-in-plain-sight/>
 * Twitter: <https://twitter.com/pmylund/status/975176253044084736>
 

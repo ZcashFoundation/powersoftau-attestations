@@ -1,6 +1,6 @@
 # SuperKerem
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2017/000143.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2017/000143.html>
 * See `./report.asc` for a signed attestation.
 
 Response file:

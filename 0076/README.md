@@ -1,6 +1,6 @@
 # Monica Quaintance
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000321.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000321.html>
 * Twitter: <https://twitter.com/QuaintM/status/972961152593465344>
 
 Response file:

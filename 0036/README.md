@@ -1,6 +1,6 @@
 # Chris Baynes
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000195.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000195.html>
 * https://twitter.com/binaryexp/status/953072048393334784
 
 Response file:

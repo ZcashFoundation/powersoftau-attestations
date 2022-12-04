@@ -1,6 +1,6 @@
 # Ryan Greenawalt
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000285.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000285.html>
 * Twitter: <https://twitter.com/NomAnor100/status/969751862713909249>
 * Gab: <https://gab.ai/NomEnt/posts/20876435>
 

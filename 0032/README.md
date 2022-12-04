@@ -1,6 +1,6 @@
 # James Prestwich
 
-* Mailing list post: <https://lists.z.cash.foundation/pipermail/zapps-wg/2018/000179.html>
+* Mailing list post: <https://lists.zfnd.org/pipermail/zapps-wg/2018/000179.html>
 * See `./report.asc` for signed attestation.
 
 Response file:
